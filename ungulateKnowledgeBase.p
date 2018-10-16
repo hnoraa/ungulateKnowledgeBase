@@ -7,8 +7,14 @@ mammal(horse).
 mammal(llama).
 mammal(giraffe).
 mammal(hippopotamus).
+mammal(old world boar).
 
 ungulate(horse).
 ungulate(llama).
 ungulate(giraffe).
 ungulate(hippopotamus).
+ungulate(pere davids deer).
+ungulate(tapir).
+ungulate(old world boar).
+ungulate(philippine warty pig).
+
